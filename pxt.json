@@ -1,0 +1,17 @@
+{
+    "name": "Catch the Apple_v1.0",
+    "dependencies": {
+        "device": "*",
+        "animation": "*"
+    },
+    "description": "",
+    "files": [
+        "main.blocks",
+        "main.ts",
+        "README.md"
+    ],
+    "preferredEditor": "blocksprj",
+    "testFiles": [
+        "test.ts"
+    ]
+}
